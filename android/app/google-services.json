@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "912896011842",
+    "project_id": "fashion-store-ccc10",
+    "storage_bucket": "fashion-store-ccc10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912896011842:android:a06607ee3c9b59d347c7db",
+        "android_client_info": {
+          "package_name": "com.example.task3_internship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912896011842-qiidkfe9b4losm66e9oaj1993lkv3afn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.task3_internship",
+            "certificate_hash": "c8c67c49adbd1a5f41a8f6c4d3d32413f03c3b4b"
+          }
+        },
+        {
+          "client_id": "912896011842-30smli9mn8c411drjn958hdvma58j7g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdpKVt8wRRGrpoUKMA-jjQabS4x38ukAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912896011842-30smli9mn8c411drjn958hdvma58j7g1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912896011842-p1a72f9luuo6n9m0fmljac6e2gnepcvh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.task3Internship"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+name: task3_internship
+description: "A new Flutter project."
+publish_to: 'none'
+
+# Incrementing version from 1.0.0+1 to 1.0.1+2 to ensure it's treated as an update/new install
+version: 1.0.1+2
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^4.15.0
+  firebase_auth: ^6.7.0
+  cloud_firestore: ^6.10.0
+  http: ^1.6.0
+  cached_network_image: ^3.4.1
+  google_fonts: ^6.3.0
+  flutter_riverpod: ^2.6.1
+  google_sign_in: ^7.1.1
+  flutter_screenutil: ^5.9.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
